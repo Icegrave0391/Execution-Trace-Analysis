@@ -8,6 +8,7 @@ The *[Exploit Database](https://www.exploit-db.com/)* - Exploits, Shellcode, 0da
 
 ### Root Cause Diagnosis
 - ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems. C Yagemann, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-yagemann.pdf)
+- Execution Reconstruction: Harnessing Failure Reoccurrences for Failure Reproduction. G Zuo, et al. PLDI'2021 [paper](https://web.eecs.umich.edu/~barisk/public/er.pdf)
 - POMP++: Facilitating Postmortem Program Diagnosis with Value-set Analysis. D Mu, et al. TSE'2019 [paper](https://mudongliang.github.io/files/papers/pomp++.pdf)
 - REPT: Reverse Debugging of Failures in Deployed Software. W Cui, et al. OSDI'2018 [paper](https://www.usenix.org/system/files/osdi18-cui.pdf)
 - Postmortem Program Analysis with Hardware-Enhanced Post-Crash Artifacts. J Xu, et al. Security'2017 [paper](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-xu.pdf)
