@@ -33,6 +33,9 @@ The *[Exploit Database](https://www.exploit-db.com/)* - Exploits, Shellcode, 0da
 - PT-CFI: Transparent backward-edge control ﬂow violation detection using intel processor trace. Y Gu, et al. CODASPY'2017 [paper](http://web.cse.ohio-state.edu/~zhao.2708/assets/codaspy17/CODASPY17.pdf)
 - 
 
+### Provenance Analysis
+- Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. C Yagemann, et al. CCS'2021
+
 ### Taint Analysis (Theory)
 - SELECTIVETAINT: Efficient Data Flow Tracking With Static Binary Rewriting. S Chen, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-chen-sanchuan.pdf)
 - StraightTaint: Decoupled Offline Symbolic Taint Analysis. J Ming, et al. ASE'2016 [paper](https://faculty.ist.psu.edu/wu/papers/StraightTaint-ASE16.pdf)
