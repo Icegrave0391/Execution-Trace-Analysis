@@ -4,6 +4,12 @@
 ## Dataset
 The *[Exploit Database](https://www.exploit-db.com/)* - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more.
 
+### Runtime effiency
+To evaluate runtime effiency of the approach or profiling, there are several benchmarks: Apache's benchmarking tool [ab](https://httpd.apache.org/docs/2.4/programs/ab.html), SQLite's performance tests, MySQL's benchmarking tool, and some other published benchmarks.
+To measure performance overhead for MySQL, httpd, and SQLite, we measure the drop in throughput and for all the other benchmarks, we measure the increase in runtime.
+
+- A Case for an Interleaving Constrained Shared-Memory Multi-Processor. J Yu, et al. ISCA'2009 [paper](https://web.eecs.umich.edu/~nsatish/papers/ISCA-09-CPC.pdf)
+
 ## SIEM
 
 ### Root Cause Diagnosis
