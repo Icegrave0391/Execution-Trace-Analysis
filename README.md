@@ -42,6 +42,7 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 
 ### Provenance Analysis
 - Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. C Yagemann, et al. CCS'2021
+- OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis. W Hassan, et al. NDSS'2020 [paper](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss20.pdf)
 
 ### Taint Analysis (Theory)
 - SELECTIVETAINT: Efficient Data Flow Tracking With Static Binary Rewriting. S Chen, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-chen-sanchuan.pdf)
