@@ -45,10 +45,19 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis. W Hassan, et al. NDSS'2020 [paper](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss20.pdf)
 - Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking. Y Ji, et al. CCS'2017 [paper](https://taesoo.kim/pubs/2017/ji:rain.pdf)
 
-### Taint Analysis (Theory)
+## Taint Analysis
+
+### Taint Acceleration
 - SELECTIVETAINT: Efficient Data Flow Tracking With Static Binary Rewriting. S Chen, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-chen-sanchuan.pdf)
 - StraightTaint: Decoupled Offline Symbolic Taint Analysis. J Ming, et al. ASE'2016 [paper](https://faculty.ist.psu.edu/wu/papers/StraightTaint-ASE16.pdf)
 - TaintPipe: Pipelined Symbolic Taint Analysis. J Ming, et al. Security'2015 [paper](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ming.pdf)
+
+### Static Taint
+- Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels. H Zhang, et al. CCS'2021 [paper](https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_static_high_order.pdf)
+- NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis. J Choi, et al. SP'2021 [paper](https://softsec.kaist.ac.kr/~jschoi/data/oakland2021.pdf)
+
+### Indirect Call Resolve
+- Refining Indirect Call Targets at the Binary Level. S Kim, et al. NDSS'2021 [paper](http://www.cse.psu.edu/~gxt29/papers/cfgByDatalog_NDSS21.pdf)
 
 
 ### Deobfuscation
