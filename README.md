@@ -44,6 +44,7 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. C Yagemann, et al. CCS'2021
 - OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis. W Hassan, et al. NDSS'2020 [paper](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss20.pdf)
 - Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking. Y Ji, et al. CCS'2017 [paper](https://taesoo.kim/pubs/2017/ji:rain.pdf)
+- Enabling Refinable Cross-Host Attack Investigation with Efficient Data Flow Tagging and Tracking. Y Ji, et al. Security'2018 [paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-ji.pdf)
 
 ## Taint Analysis
 
