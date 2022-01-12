@@ -52,10 +52,12 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - SELECTIVETAINT: Efficient Data Flow Tracking With Static Binary Rewriting. S Chen, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21fall-chen-sanchuan.pdf)
 - StraightTaint: Decoupled Offline Symbolic Taint Analysis. J Ming, et al. ASE'2016 [paper](https://faculty.ist.psu.edu/wu/papers/StraightTaint-ASE16.pdf)
 - TaintPipe: Pipelined Symbolic Taint Analysis. J Ming, et al. Security'2015 [paper](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-ming.pdf)
+- A General Approach for Efficiently Accelerating Software-based Dynamic Data Flow Tracking on Commodity Hardware. K Jee et, al. NDSS'2012 [paper](https://liberty.princeton.edu/Publications/ndss12_tfa.pdf)
 
 ### Static Taint
 - Statically Discovering High-Order Taint Style Vulnerabilities in OS Kernels. H Zhang, et al. CCS'2021 [paper](https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_static_high_order.pdf)
 - NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis. J Choi, et al. SP'2021 [paper](https://softsec.kaist.ac.kr/~jschoi/data/oakland2021.pdf)
+- Razzer: Finding Kernel Race Bugs through Fuzzing. D Jeong, et al. SP'2019 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835326)
 - K-Miner: Uncovering Memory Corruption in Linux. D Gens, et al. NDSS'2018 [paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_05A-1_Gens_paper.pdf)
 
 ### Indirect Call Resolve
