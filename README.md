@@ -75,4 +75,6 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 
 # Others
 
-- Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis. SOSP'2021
+- Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis. S Gong, et al. SOSP'2021
+- Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware. R Tao, et al. SOSP'2021
+- Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale. Y Bae, et al. SOSP'2021
