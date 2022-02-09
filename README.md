@@ -73,3 +73,6 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 ## Limitations
 
 
+# Others
+
+- Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis. SOSP'2021
