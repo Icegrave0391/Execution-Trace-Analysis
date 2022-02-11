@@ -46,6 +46,11 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking. Y Ji, et al. CCS'2017 [paper](https://taesoo.kim/pubs/2017/ji:rain.pdf)
 - Enabling Refinable Cross-Host Attack Investigation with Efficient Data Flow Tagging and Tracking. Y Ji, et al. Security'2018 [paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-ji.pdf)
 
+### Bug Detection
+
+- OpenRace: An Open Source Framework for Statically Detecting Data Races. B Swain, et al. HPCA'2021 [paper](https://ieeexplore.ieee.org/document/9651289)
+- Automated Bug Hunting With Data-Driven Symbolic Root Cause Analysis. C Yagemann, et al. CCS'2021 [paper](https://dl.acm.org/doi/abs/10.1145/3460120.3485363)
+
 ## Taint Analysis
 
 ### Taint Acceleration
