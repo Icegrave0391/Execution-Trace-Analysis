@@ -1,4 +1,4 @@
-# Execution Trace & Data Flow Analysis
+# Provenance & Execution Trace & Data Flow Analysis
 
 
 ## Dataset
@@ -41,6 +41,9 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - 
 
 ### Provenance Analysis
+
+#### Forensic Analysis
+- Forensic Analysis of Configuration-based Attacks. M Inam, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-57-paper.pdf)
 - Validating the Integrity of Audit Logs Against Execution Repartitioning Attacks. C Yagemann, et al. CCS'2021
 - Causal Analysis for Software-Defined Networking Attacks. B Ujcich, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec21-ujcich.pdf)
 - OmegaLog: High-Fidelity Attack Investigation via Transparent Multi-layer Log Analysis. W Hassan, et al. NDSS'2020 [paper](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss20.pdf)
