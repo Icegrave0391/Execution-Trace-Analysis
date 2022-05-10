@@ -39,7 +39,9 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - Efficient Protection of Path-Sensitive Control Security. R Ding, et al. Security'2017 [paper](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ding.pdf)
 - GRIFFIN: Guarding Control Flows Using Intel Processor Trace. X Ge, et al. ASPLOS'2017 [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/griffin-asplos17.pdf)
 - PT-CFI: Transparent backward-edge control ﬂow violation detection using intel processor trace. Y Gu, et al. CODASPY'2017 [paper](http://web.cse.ohio-state.edu/~zhao.2708/assets/codaspy17/CODASPY17.pdf)
-- 
+
+### System Diagnosis
+- Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing. L Weng, et al. ATC'2021 [paper](https://www.usenix.org/system/files/atc21-weng.pdf)
 
 ### Provenance Analysis
 
