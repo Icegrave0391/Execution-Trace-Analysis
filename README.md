@@ -23,6 +23,7 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - Failure Sketching: A Technique for Automated Root Cause Diagnosis of In-Production Failures. B Kasikci, et al. SOSP'2015 [paper](https://dslab.epfl.ch/pubs/gist.pdf)
 - Lazy Diagnosis of In-Production Concurrency Bugs. B Kasikci, et al. SOSP'2017 [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/snorlax-sosp17.pdf)
 - AURORA: Statistical Crash Analysis for Automated Root Cause Explanation. T Blazytko, et al. Security'2020 [paper](https://www.usenix.org/system/files/sec20fall_blazytko_prepub.pdf)
+- Root Cause Localization for Unreproducible Builds via Causality Analysis over System Call Tracing. Z Ren, et al. ASE'2019 [paper](https://taoxie.cs.illinois.edu/publications/ase19-reptrace.pdf)
 - Credal: Towards Locating a Memory Corruption Vulnerability with Your Core Dump. J Xu, et al. SIGSAC'2016 [paper](http://xinyuxing.org/pub/p529-xu.pdf)
 - RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps. W Cui, et al. ICSE'2016 [paper](https://softsec.kaist.ac.kr/~sangkilc/papers/cui-icse16.pdf)
 - ProRace: Practical Data Race Detection for Production Use. T Zhang, et al. ASPLOS'2017 [paper](https://www3.cs.stonybrook.edu/~dongyoon/papers/ASPLOS-17-ProRace.pdf)
@@ -41,6 +42,8 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 - 
 
 ### Provenance Analysis
+
+- Back-Propagating System Dependency Impact for Attack Investigation. P Fang, et al. Security'2021 [paper](Back-Propagating System Dependency Impact for Attack Investigation)
 
 #### Forensic Analysis
 - Forensic Analysis of Configuration-based Attacks. M Inam, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-57-paper.pdf)
