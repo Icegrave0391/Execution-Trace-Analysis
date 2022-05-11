@@ -42,6 +42,7 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 
 ### System Diagnosis
 - Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing. L Weng, et al. ATC'2021 [paper](https://www.usenix.org/system/files/atc21-weng.pdf)
+- The Inflection Point Hypothesis: A Principled Debugging Approach for Locating the Root Cause of a Failure. Y Zhang, et al. SOSP'2019 [paper](http://www.cs.otago.ac.nz/cosc440/readings/inflection_point.pdf)
 
 ### Provenance Analysis
 
