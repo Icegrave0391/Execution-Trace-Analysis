@@ -46,7 +46,7 @@ To measure performance overhead for MySQL, httpd, and SQLite, we measure the dro
 
 ### Provenance Analysis
 
-- Back-Propagating System Dependency Impact for Attack Investigation. P Fang, et al. Security'2021 [paper](Back-Propagating System Dependency Impact for Attack Investigation)
+- Back-Propagating System Dependency Impact for Attack Investigation. P Fang, et al. Security'2021 [paper](https://www.usenix.org/system/files/sec22summer_fang.pdf)
 
 #### Forensic Analysis
 - Forensic Analysis of Configuration-based Attacks. M Inam, et al. NDSS'2021 [paper](https://www.ndss-symposium.org/wp-content/uploads/2022-57-paper.pdf)
